@@ -1,2 +1,2 @@
 # skintone
-This will show the skintone using dataset
+Detects the skintone(dark,fair or mild) .
